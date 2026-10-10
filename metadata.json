@@ -9,7 +9,7 @@
       "status": "stable",
       "kicad_version": "10.0",
       "download_url": "https://github.com/briantet/kicad-gnd-via-stitching/releases/download/v1.3.0/com_gnd_via_stitching.zip",
-      "download_sha256": "TBD_after_release",
+      "download_sha256": "sha256:dbd31e1277235255d746469a3296900dce4d0822d2c431b6c4ad687c0f1a3a7b",
       "install_size": 15000
     }
   ],
