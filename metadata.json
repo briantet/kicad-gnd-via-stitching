@@ -1,0 +1,28 @@
+{
+  "identifier": "com_gnd_via_stitching",
+  "name": "GND Via Stitching",
+  "description": "Automatically places ground via stitches in a neat grid (L→R, T→B), avoiding all traces, pads, and footprints.",
+  "description_full": "Places via stitches on the GND net in a configurable grid pattern. Respects board outline, existing traces, pads, and footprint bounding boxes. Supports layer selection and preview mode before committing. Built and tested on KiCad 10.0.",
+  "versions": [
+    {
+      "version": "1.3.0",
+      "status": "stable",
+      "kicad_version": "10.0",
+      "download_url": "https://github.com/briantet/kicad-gnd-via-stitching/releases/download/v1.3.0/com_gnd_via_stitching.zip",
+      "download_sha256": "TBD_after_release",
+      "install_size": 15000
+    }
+  ],
+  "author": {
+    "name": "Teters Technology LLC",
+    "contact": {
+      "web": "https://teters.ai",
+      "github": "https://github.com/briantet"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/briantet/kicad-gnd-via-stitching"
+  },
+  "tags": ["via", "stitching", "ground", "GND", "pcb", "power"]
+}
